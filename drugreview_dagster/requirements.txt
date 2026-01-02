@@ -1,0 +1,16 @@
+dagster
+dagster-webserver
+pandas
+numpy
+seaborn
+matplotlib
+wordcloud
+statsmodels
+scikit-learn
+squarify
+sqlalchemy
+psycopg2-binary
+textblob
+nltk
+vaderSentiment
+nbformat
