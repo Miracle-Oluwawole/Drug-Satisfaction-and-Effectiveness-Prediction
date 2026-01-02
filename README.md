@@ -53,23 +53,6 @@ Streamlit Dashboard
   - Live, interactive visualisations
   - Model evaluation dashboards
 
-## 📁 Project Structure
-
-drugreview_dagster_project/
-├───dashboard
-│   ├───data
-│   └───outputs
-│       ├───data
-│       └───models
-├───data
-├───drugreview_dagster
-│   ├───drugreview_dagster
-│   └───__pycache__
-├───notebooks
-└───outputs
-    ├───data
-    └───models
-
 ---
 
 ## Technologies Used
