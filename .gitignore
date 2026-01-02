@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Conda / virtual environments
+.env
+.conda/
+venv/
+dagster_env/
+
+# Generated outputs
+outputs/
+dashboard/outputs/
+
+# Data files
+data/
+*.csv
+
+# Models
+*.pkl
+*.joblib
+
+# Images
+*.png
+*.jpg
+
+# Jupyter
+.ipynb_checkpoints/
