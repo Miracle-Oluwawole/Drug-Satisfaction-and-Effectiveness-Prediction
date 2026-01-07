@@ -13,7 +13,9 @@ This project implements a CRISP-DM methodology and an end-to-end data analytics 
 The system separates **heavy data processing and modelling** from **interactive visualisation**.
 
 ---
-[Click here to view the Project Documentation on Google Drive(https://docs.google.com/document/d/11KNDCq8MFgiB3NURtpaM8m5j1pRE3_P3/edit?usp=sharing&ouid=118103977541279081890&rtpof=true&sd=true))
+### Click the link below to view the Project Report 
+
+Google Drive(https://docs.google.com/document/d/11KNDCq8MFgiB3NURtpaM8m5j1pRE3_P3/edit?usp=sharing&ouid=118103977541279081890&rtpof=true&sd=true))
 
 ---
 
